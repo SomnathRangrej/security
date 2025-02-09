@@ -1,0 +1,2 @@
+The Right-To-Left Override character can be used to force a right-to-left direction withing a text.
+This is often abused by hackers to disguise file extensions: when using it in the file name my-text.'U+202E'cod.exe, the file name is actually displayed as my-text.exe.doc - so it seems to be a .doc file while in reality it is an .exe file.

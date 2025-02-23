@@ -6,3 +6,5 @@ security content &amp; knowledge base
 - [System Design: Why Is Docker Important?](./images/System%20Design_%20Why%20Is%20Docker%20Important.jpg)
 
 - [RIGHT-TO-LEFT OVERRIDE](./description/RLO.md)
+
+- [RBAC](https://dev.to/zuplo/how-rbac-improves-api-permission-management-2cbn)

@@ -8,3 +8,5 @@ security content &amp; knowledge base
 - [RIGHT-TO-LEFT OVERRIDE](./description/RLO.md)
 
 - [RBAC](https://dev.to/zuplo/how-rbac-improves-api-permission-management-2cbn)
+
+- [Non-Functional Requirements: The Backbone of Great Software - Part 1](https://blog.bytebytego.com/p/non-functional-requirements-the-backbone)

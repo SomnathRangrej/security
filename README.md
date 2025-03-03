@@ -10,3 +10,5 @@ security content &amp; knowledge base
 - [RBAC](https://dev.to/zuplo/how-rbac-improves-api-permission-management-2cbn)
 
 - [Non-Functional Requirements: The Backbone of Great Software - Part 1](https://blog.bytebytego.com/p/non-functional-requirements-the-backbone)
+
+- [Where to get started with GenAI](https://blog.bytebytego.com/p/where-to-get-started-with-genai)

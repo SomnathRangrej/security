@@ -12,3 +12,7 @@ security content &amp; knowledge base
 - [Non-Functional Requirements: The Backbone of Great Software - Part 1](https://blog.bytebytego.com/p/non-functional-requirements-the-backbone)
 
 - [Where to get started with GenAI](https://blog.bytebytego.com/p/where-to-get-started-with-genai)
+
+- [Python for Security Engineers](https://infosecwriteups.com/python-for-security-engineers-61c2cd991ab4)
+
+- [When Microservices Meet Unpredictable APIs](https://medium.verylazytech.com/top-web-application-penetration-testing-tools-in-2025-a-comprehensive-guide-for-ethical-hackers-863c0640baab)

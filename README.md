@@ -15,4 +15,6 @@ security content &amp; knowledge base
 
 - [Python for Security Engineers](https://infosecwriteups.com/python-for-security-engineers-61c2cd991ab4)
 
-- [When Microservices Meet Unpredictable APIs](https://medium.verylazytech.com/top-web-application-penetration-testing-tools-in-2025-a-comprehensive-guide-for-ethical-hackers-863c0640baab)
+- [Top Web Application Penetration Testing Tools in 2025: A Comprehensive Guide for Ethical Hackers](https://medium.verylazytech.com/top-web-application-penetration-testing-tools-in-2025-a-comprehensive-guide-for-ethical-hackers-863c0640baab)
+
+- [When Microservices Meet Unpredictable APIs](https://medium.com/@antonellosemeraro/when-microservices-meet-unpredictable-apis-82a603f6cb8b)

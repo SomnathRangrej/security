@@ -20,3 +20,7 @@ security content &amp; knowledge base
 - [When Microservices Meet Unpredictable APIs](https://medium.com/@antonellosemeraro/when-microservices-meet-unpredictable-apis-82a603f6cb8b)
 
 - [Mastering Web Application Pentesting with TryhackMe](https://infosecwriteups.com/mastering-web-application-pentesting-with-tryhackme-24257ef182c5)
+
+- [OTP Bypass Bug in Public Bug Bounty Program](https://infosecwriteups.com/otp-bypass-bug-in-public-bug-bounty-program-5554eafc18ab)
+
+- [20 Simple Bug Bounty Automation Techniques](https://osintteam.blog/cyber20-simple-bug-bounty-automation-techniques-b850db32591c)

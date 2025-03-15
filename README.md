@@ -24,3 +24,5 @@ security content &amp; knowledge base
 - [OTP Bypass Bug in Public Bug Bounty Program](https://infosecwriteups.com/otp-bypass-bug-in-public-bug-bounty-program-5554eafc18ab)
 
 - [20 Simple Bug Bounty Automation Techniques](https://osintteam.blog/cyber20-simple-bug-bounty-automation-techniques-b850db32591c)
+
+- (Subnet & VLAN)[./description/subnet-and-vlan.md]

@@ -25,4 +25,4 @@ security content &amp; knowledge base
 
 - [20 Simple Bug Bounty Automation Techniques](https://osintteam.blog/cyber20-simple-bug-bounty-automation-techniques-b850db32591c)
 
-- (Subnet & VLAN)[./description/subnet-and-vlan.md]
+- [Subnet & VLAN](./description/subnet-and-vlan.md)

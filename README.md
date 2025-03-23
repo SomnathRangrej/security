@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/a6a57dec-a378-44e1-b7fb-5f425ac36cd2)# security
+# security
+
 security content &amp; knowledge base
 
 - [public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports/tree/master)
@@ -28,3 +29,5 @@ security content &amp; knowledge base
 - [Subnet & VLAN](./description/subnet-and-vlan.md)
 
 - [10 MindBlowing Free APIs to Supercharge Your Next Project](https://medium.com/pythoneers/10-mindblowing-free-apis-to-supercharge-your-next-project-8edd34df6254)
+
+- [How I Found a Bug in Minutes — No Tools, Just Mindful Approach to Testing!](https://strangerwhite.medium.com/how-i-found-a-bug-in-minutes-no-tools-just-mindful-approach-to-testing-0dd034ff8ab9)

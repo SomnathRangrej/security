@@ -33,3 +33,5 @@ security content &amp; knowledge base
 - [How I Found a Bug in Minutes — No Tools, Just Mindful Approach to Testing!](https://strangerwhite.medium.com/how-i-found-a-bug-in-minutes-no-tools-just-mindful-approach-to-testing-0dd034ff8ab9)
 
 - [15+ Linux Environment Variables Hackers Use (You Should Too!)](https://medium.verylazytech.com/15-linux-environment-variables-hackers-use-you-should-too-f4b9397098dd)
+
+- [Mastering OOP Fundamentals with SOLID Principles](https://blog.bytebytego.com/p/mastering-oop-fundamentals-with-solid)

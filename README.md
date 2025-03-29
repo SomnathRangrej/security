@@ -35,3 +35,5 @@ security content &amp; knowledge base
 - [15+ Linux Environment Variables Hackers Use (You Should Too!)](https://medium.verylazytech.com/15-linux-environment-variables-hackers-use-you-should-too-f4b9397098dd)
 
 - [Mastering OOP Fundamentals with SOLID Principles](https://blog.bytebytego.com/p/mastering-oop-fundamentals-with-solid)
+
+-[I Stalked a Scammer on the Dark Web Here’s What I Learned About OSINT](https://infosecwriteups.com/i-stalked-a-scammer-on-the-dark-web-heres-what-i-learned-about-osint-18675de8ce82)

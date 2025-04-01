@@ -43,3 +43,5 @@ security content &amp; knowledge base
 - [SELinux](https://github.com/SomnathRangrej/security/blob/main/selinux.md)
 
 - [Reimagining the SOC Analyst Role Using AI - What is Actually Realistic?](https://www.cyberseccafe.com/p/reimagining-the-soc-analyst-role)
+
+- [Welcome to the next generation of Burp Suite: elevate your testing with Burp AI](https://portswigger.net/blog/welcome-to-the-next-generation-of-burp-suite-elevate-your-testing-with-burp-ai)

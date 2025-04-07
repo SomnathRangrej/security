@@ -45,3 +45,7 @@ security content &amp; knowledge base
 - [Reimagining the SOC Analyst Role Using AI - What is Actually Realistic?](https://www.cyberseccafe.com/p/reimagining-the-soc-analyst-role)
 
 - [Welcome to the next generation of Burp Suite: elevate your testing with Burp AI](https://portswigger.net/blog/welcome-to-the-next-generation-of-burp-suite-elevate-your-testing-with-burp-ai)
+
+- Zabbix
+  - https://aleks-aleksandrov.medium.com/beginners-guide-to-zabbix-easy-steps-for-installation-and-configuration-39ed9a81e0c2
+  - https://medium.com/@gokulnk/understanding-zabbix-f2a83eeb1221

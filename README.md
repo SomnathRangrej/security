@@ -51,3 +51,5 @@ security content &amp; knowledge base
   - https://medium.com/@gokulnk/understanding-zabbix-f2a83eeb1221
 
 - [IPMI](https://github.com/SomnathRangrej/security/blob/main/description/ipmi.md)
+
+- [Bypass rate limit & get Application-Level DDoS Vulnerability in BBP](https://frostyxsec.medium.com/bypass-no-rate-limit-get-application-level-ddos-vulnerability-bb4bae99f3a4)

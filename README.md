@@ -53,3 +53,5 @@ security content &amp; knowledge base
 - [IPMI](https://github.com/SomnathRangrej/security/blob/main/description/ipmi.md)
 
 - [Bypass rate limit & get Application-Level DDoS Vulnerability in BBP](https://frostyxsec.medium.com/bypass-no-rate-limit-get-application-level-ddos-vulnerability-bb4bae99f3a4)
+
+- [Scalable Systems Guide: 7 Layers Every Dev Should Know](https://qubytes.substack.com/p/scalable-systems-guide-7-layers-every)

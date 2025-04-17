@@ -55,3 +55,5 @@ security content &amp; knowledge base
 - [Bypass rate limit & get Application-Level DDoS Vulnerability in BBP](https://frostyxsec.medium.com/bypass-no-rate-limit-get-application-level-ddos-vulnerability-bb4bae99f3a4)
 
 - [Scalable Systems Guide: 7 Layers Every Dev Should Know](https://qubytes.substack.com/p/scalable-systems-guide-7-layers-every)
+
+- [SNMP — Ports 161, 162, 10161, and 10162/UDP — How to exploit?](https://medium.verylazytech.com/snmp-ports-161-162-10161-and-10162-udp-how-to-exploit-a9044f1eeb72)

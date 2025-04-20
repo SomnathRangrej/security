@@ -57,3 +57,7 @@ security content &amp; knowledge base
 - [Scalable Systems Guide: 7 Layers Every Dev Should Know](https://qubytes.substack.com/p/scalable-systems-guide-7-layers-every)
 
 - [SNMP — Ports 161, 162, 10161, and 10162/UDP — How to exploit?](https://medium.verylazytech.com/snmp-ports-161-162-10161-and-10162-udp-how-to-exploit-a9044f1eeb72)
+
+- [Day 2: Best Free Ways to Learn Ethical Hacking by Doing!](https://medium.com/@omkumar.coder/day-2-best-free-ways-to-learn-ethical-hacking-by-doing-d59617552336)
+
+- [How to Bypass 503 Errors Like a Pro! ](https://medium.com/@gouravrathod8788/how-to-bypass-503-errors-like-a-pro-10f0c110a162)

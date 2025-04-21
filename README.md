@@ -61,3 +61,5 @@ security content &amp; knowledge base
 - [Day 2: Best Free Ways to Learn Ethical Hacking by Doing!](https://medium.com/@omkumar.coder/day-2-best-free-ways-to-learn-ethical-hacking-by-doing-d59617552336)
 
 - [How to Bypass 503 Errors Like a Pro! ](https://medium.com/@gouravrathod8788/how-to-bypass-503-errors-like-a-pro-10f0c110a162)
+
+- [Rate Limiting: The Unsung Guardian of Web Applications](https://medium.com/@sachinpv2004/%EF%B8%8F-rate-limiting-the-unsung-guardian-of-web-applications-37a52a96a320)

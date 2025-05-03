@@ -67,3 +67,7 @@ security content &amp; knowledge base
 - [Waiting for admin approve , I don’t think so !](https://medium.com/@abdallahehab_31039/waiting-for-admin-approve-i-dont-think-so-195a042f913e)
 
 - [The OSINT Blueprint: Elevate Your Investigation Skills to Extraordinary Levels](https://4swolf.medium.com/the-osint-blueprint-elevate-your-investigation-skills-to-extraordinary-levels-0e7f7c832b9d)
+
+- [Pentester vs. Security Researcher: Skills, Career Paths, and What to Expect](https://pentesterlab.com/blog/pentester-vs-security-researcher-career-paths)
+
+- [Do You Care About Exploitability?](https://pentesterlab.com/blog/do-you-care-about-exploitability)

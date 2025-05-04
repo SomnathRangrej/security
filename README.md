@@ -71,3 +71,5 @@ security content &amp; knowledge base
 - [Pentester vs. Security Researcher: Skills, Career Paths, and What to Expect](https://pentesterlab.com/blog/pentester-vs-security-researcher-career-paths)
 
 - [Do You Care About Exploitability?](https://pentesterlab.com/blog/do-you-care-about-exploitability)
+
+- [IDOR Attacks Made Simple: How Hackers Access Unauthorized Data](https://infosecwriteups.com/idor-attacks-made-simple-how-hackers-access-unauthorized-data-ca1158d18190)

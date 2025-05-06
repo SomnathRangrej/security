@@ -73,3 +73,5 @@ security content &amp; knowledge base
 - [Do You Care About Exploitability?](https://pentesterlab.com/blog/do-you-care-about-exploitability)
 
 - [IDOR Attacks Made Simple: How Hackers Access Unauthorized Data](https://infosecwriteups.com/idor-attacks-made-simple-how-hackers-access-unauthorized-data-ca1158d18190)
+
+- [Top 235 IDOR Bug Bounty Reports](https://aimasterprompt.medium.com/top-235-idor-bug-bounty-reports-e00c8061fe28)

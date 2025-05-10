@@ -77,3 +77,5 @@ security content &amp; knowledge base
 - [Top 235 IDOR Bug Bounty Reports](https://aimasterprompt.medium.com/top-235-idor-bug-bounty-reports-e00c8061fe28)
 
 - [Mastering Bug Bounties with Burp Suite: A Comprehensive Guide to Web Security](https://medium.com/@benjaminmillerdev/mastering-bug-bounties-with-burp-suite-a-comprehensive-guide-to-web-security-bb63a03e6511)
+
+- [Mastering Rate Limit Bypass Techniques](https://infosecwriteups.com/mastering-rate-limit-bypass-techniques-fff9499b0f42)

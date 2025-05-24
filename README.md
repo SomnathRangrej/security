@@ -79,3 +79,9 @@ security content &amp; knowledge base
 - [Mastering Bug Bounties with Burp Suite: A Comprehensive Guide to Web Security](https://medium.com/@benjaminmillerdev/mastering-bug-bounties-with-burp-suite-a-comprehensive-guide-to-web-security-bb63a03e6511)
 
 - [Mastering Rate Limit Bypass Techniques](https://infosecwriteups.com/mastering-rate-limit-bypass-techniques-fff9499b0f42)
+
+- [Unveiling HTTP Parameter Pollution (HPP): A Simple Explanation with a Real-Life Example](https://medium.com/@natarajanck2/unveiling-http-parameter-pollution-hpp-a-simple-explanation-with-a-real-life-example-422dfcac7895)
+
+- [Feroxbuster: The Rust-Powered Recon Weapon You’ve Been Missing](https://chintalatarakaram.medium.com/feroxbuster-the-rust-powered-recon-weapon-youve-been-missing-3abed642c0ae)
+
+- [How I Found and Reproduced a Race Condition in AWS API Key Creation](https://medium.com/@venkigvs123/how-i-found-and-reproduced-a-race-condition-in-aws-api-key-creation-95dbc5f37c90)

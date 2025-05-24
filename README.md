@@ -85,3 +85,5 @@ security content &amp; knowledge base
 - [Feroxbuster: The Rust-Powered Recon Weapon You’ve Been Missing](https://chintalatarakaram.medium.com/feroxbuster-the-rust-powered-recon-weapon-youve-been-missing-3abed642c0ae)
 
 - [How I Found and Reproduced a Race Condition in AWS API Key Creation](https://medium.com/@venkigvs123/how-i-found-and-reproduced-a-race-condition-in-aws-api-key-creation-95dbc5f37c90)
+
+- [Hacking APIs: Exploiting Business Logic Flaws](https://iaraoz.medium.com/hacking-apis-exploiting-business-logic-flaws-c40872ce5600)

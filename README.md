@@ -87,3 +87,5 @@ security content &amp; knowledge base
 - [How I Found and Reproduced a Race Condition in AWS API Key Creation](https://medium.com/@venkigvs123/how-i-found-and-reproduced-a-race-condition-in-aws-api-key-creation-95dbc5f37c90)
 
 - [Hacking APIs: Exploiting Business Logic Flaws](https://iaraoz.medium.com/hacking-apis-exploiting-business-logic-flaws-c40872ce5600)
+
+- [Understanding the Referer in Network Header](https://medium.com/@natarajanck2/understanding-the-referer-in-network-header-c1a675406014)

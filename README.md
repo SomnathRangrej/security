@@ -89,3 +89,5 @@ security content &amp; knowledge base
 - [Hacking APIs: Exploiting Business Logic Flaws](https://iaraoz.medium.com/hacking-apis-exploiting-business-logic-flaws-c40872ce5600)
 
 - [Understanding the Referer in Network Header](https://medium.com/@natarajanck2/understanding-the-referer-in-network-header-c1a675406014)
+
+- [Hacking APIs: Exploiting Shadow APIs and Forgotten Endpoints](https://iaraoz.medium.com/hacking-apis-exploiting-shadow-apis-and-forgotten-endpoints-9930c78e7c2d)

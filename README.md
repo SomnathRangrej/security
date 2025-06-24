@@ -95,3 +95,5 @@ security content &amp; knowledge base
 - [5 Bash Scripts I Use Daily as a Linux SysAdmin](https://www.tecmint.com/bash-scripts-linux-sysadmin/)
 
 - [Set Up Incremental Backups with rsync and cron on Linux](https://www.tecmint.com/linux-rsync-incremental-backup-cron/)
+
+- [50 Super Rare Linux Commands that most users have never encountered](https://medium.com/technology-com/50-super-rare-linux-commands-that-most-users-have-never-encountered-04e84717cf3e)

@@ -93,3 +93,5 @@ security content &amp; knowledge base
 - [Hacking APIs: Exploiting Shadow APIs and Forgotten Endpoints](https://iaraoz.medium.com/hacking-apis-exploiting-shadow-apis-and-forgotten-endpoints-9930c78e7c2d)
 
 - [5 Bash Scripts I Use Daily as a Linux SysAdmin](https://www.tecmint.com/bash-scripts-linux-sysadmin/)
+
+- [Set Up Incremental Backups with rsync and cron on Linux](https://www.tecmint.com/linux-rsync-incremental-backup-cron/)

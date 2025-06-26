@@ -97,3 +97,7 @@ security content &amp; knowledge base
 - [Set Up Incremental Backups with rsync and cron on Linux](https://www.tecmint.com/linux-rsync-incremental-backup-cron/)
 
 - [50 Super Rare Linux Commands that most users have never encountered](https://medium.com/technology-com/50-super-rare-linux-commands-that-most-users-have-never-encountered-04e84717cf3e)
+
+- [Mastering Observability with LGTM Stack](https://blog.prateekjain.dev/mastering-observability-with-grafanas-lgtm-stack-e3b0e0a0e89b)
+
+- [Beginner’s Guide to the Grafana Open Source Ecosystem](https://blog.prateekjain.dev/beginners-guide-to-the-grafana-open-source-ecosystem-433926713dfe)

@@ -101,3 +101,10 @@ security content &amp; knowledge base
 - [Mastering Observability with LGTM Stack](https://blog.prateekjain.dev/mastering-observability-with-grafanas-lgtm-stack-e3b0e0a0e89b)
 
 - [Beginner’s Guide to the Grafana Open Source Ecosystem](https://blog.prateekjain.dev/beginners-guide-to-the-grafana-open-source-ecosystem-433926713dfe)
+
+- [IAM, RBAC, PoLP](https://www.cyberseccafe.com/p/cloud-security-fundamentals-iam-rbac)
+  - What is IaC?
+  - Logging and Monitoring in the Cloud
+  - Incident Response (IR) and Disaster Recovery (DR)
+  - Security Controls
+

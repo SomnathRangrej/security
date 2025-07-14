@@ -108,3 +108,4 @@ security content &amp; knowledge base
   - Incident Response (IR) and Disaster Recovery (DR)
   - Security Controls
 
+- [How I Found a Critical IDOR in Indian Railways Corporate Booking Portal Exposing Millions of Users Personal Data](https://infosecwriteups.com/how-i-found-a-critical-idor-in-indian-railways-corporate-booking-portal-exposing-millions-of-users-41fdd2145efe)

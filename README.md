@@ -109,3 +109,5 @@ security content &amp; knowledge base
   - Security Controls
 
 - [How I Found a Critical IDOR in Indian Railways Corporate Booking Portal Exposing Millions of Users Personal Data](https://infosecwriteups.com/how-i-found-a-critical-idor-in-indian-railways-corporate-booking-portal-exposing-millions-of-users-41fdd2145efe)
+
+- [How to Create Your Own Hacker Toolkit in Docker](https://infosecwriteups.com/how-to-create-your-own-hacker-toolkit-in-docker-606723dbd8ac)

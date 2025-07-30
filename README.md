@@ -113,3 +113,5 @@ security content &amp; knowledge base
 - [How to Create Your Own Hacker Toolkit in Docker](https://infosecwriteups.com/how-to-create-your-own-hacker-toolkit-in-docker-606723dbd8ac)
 
 - [How Linux Services and Daemons Work (and How to Control Them)](https://www.tecmint.com/linux-services-and-daemons/)
+
+- [Cybersecurity is Data: Collect, Analyze, Interpret](https://www.cyberseccafe.com/p/cybersecurity-is-data-collect-analyze)

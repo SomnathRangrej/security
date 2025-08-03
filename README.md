@@ -117,3 +117,8 @@ security content &amp; knowledge base
 - [Cybersecurity is Data: Collect, Analyze, Interpret](https://www.cyberseccafe.com/p/cybersecurity-is-data-collect-analyze)
 
 - [I Automated My Life With AI and Made $3,000 This Month (Here’s My Exact System)](https://learnaitoprofit.com/i-automated-my-life-with-ai-and-made-3-000-this-month-heres-my-exact-system-5ce469a4ebf3)
+
+- [How HTTPS Works?](https://github.com/SomnathRangrej/security/blob/main/description/how-https-works.md)
+
+- [What happens when you type a URL into a browser?](https://github.com/SomnathRangrej/security/blob/main/description/url-into-browser.md)
+

@@ -123,3 +123,5 @@ security content &amp; knowledge base
 - [What happens when you type a URL into a browser?](https://github.com/SomnathRangrej/security/blob/main/description/url-into-browser.md)
 
 - [TDD & BDD](https://github.com/SomnathRangrej/security/blob/main/description/tdd-bdd.md)
+
+- [storage types & examples](https://github.com/SomnathRangrej/security/blob/main/description/storage-types.md)

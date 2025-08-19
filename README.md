@@ -125,3 +125,5 @@ security content &amp; knowledge base
 - [TDD & BDD](https://github.com/SomnathRangrej/security/blob/main/description/tdd-bdd.md)
 
 - [storage types & examples](https://github.com/SomnathRangrej/security/blob/main/description/storage-types.md)
+
+- [40 Cybersecurity Tips for Everyday Life](https://www.cyberseccafe.com/p/40-cybersecurity-tips-for-everyday)

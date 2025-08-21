@@ -127,3 +127,6 @@ security content &amp; knowledge base
 - [storage types & examples](https://github.com/SomnathRangrej/security/blob/main/description/storage-types.md)
 
 - [40 Cybersecurity Tips for Everyday Life](https://www.cyberseccafe.com/p/40-cybersecurity-tips-for-everyday)
+
+- [How LLMs See Images, Audio, and More](https://blog.bytebytego.com/p/how-llms-see-images-audio-and-more)
+

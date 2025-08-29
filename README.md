@@ -131,3 +131,5 @@ security content &amp; knowledge base
 - [How LLMs See Images, Audio, and More](https://blog.bytebytego.com/p/how-llms-see-images-audio-and-more)
 
 - [🔥 100+ Windows CMD Commands Every Hacker & Pentester MUST Know (with Cheat Sheet)](https://medium.com/@verylazytech/100-windows-cmd-commands-every-hacker-pentester-must-know-with-cheat-sheet-5e194ab7c842)
+
+- [You Should Prioritize Writing as a Security Engineer](https://www.cyberseccafe.com/p/you-should-prioritize-writing-as)

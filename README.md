@@ -133,3 +133,5 @@ security content &amp; knowledge base
 - [🔥 100+ Windows CMD Commands Every Hacker & Pentester MUST Know (with Cheat Sheet)](https://medium.com/@verylazytech/100-windows-cmd-commands-every-hacker-pentester-must-know-with-cheat-sheet-5e194ab7c842)
 
 - [You Should Prioritize Writing as a Security Engineer](https://www.cyberseccafe.com/p/you-should-prioritize-writing-as)
+
+- [Building Event-Driven Architectures: FastAPI + Message Queues (RabbitMQ, Kafka, Redis Streams)](https://medium.com/python-in-plain-english/building-event-driven-architectures-fastapi-message-queues-rabbitmq-kafka-redis-streams-2ba82926a120)

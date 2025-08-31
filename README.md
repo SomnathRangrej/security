@@ -135,3 +135,5 @@ security content &amp; knowledge base
 - [You Should Prioritize Writing as a Security Engineer](https://www.cyberseccafe.com/p/you-should-prioritize-writing-as)
 
 - [Building Event-Driven Architectures: FastAPI + Message Queues (RabbitMQ, Kafka, Redis Streams)](https://medium.com/python-in-plain-english/building-event-driven-architectures-fastapi-message-queues-rabbitmq-kafka-redis-streams-2ba82926a120)
+
+- [PubSub](https://www.youtube.com/watch?v=IX0aq9jBmH0)

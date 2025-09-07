@@ -133,3 +133,58 @@ Here’s a **clear tabular summary** of the same capacity estimation example —
 * Makes capacity planning easy to review at a glance.
 * Shows both **raw numbers** and **buffered provisioning** (realistic planning).
 * Can be updated quickly as traffic patterns change.
+
+
+
+### Notes
+
+the **“× 8”** in point 4 is there because we need to convert **bytes to bits** when calculating **network throughput**.
+
+Here’s why:
+
+* **Payload size** is usually measured in **bytes** (e.g., 2 KB per request).
+* **Network throughput** is measured in **bits per second (bps)** — Mbps, Gbps, etc.
+* **1 byte = 8 bits**, so we multiply by 8 to get the equivalent size in bits before converting to Mbps or Gbps.
+
+---
+
+### Example (Step-by-Step)
+
+**Given:**
+
+* QPS = 1,080
+* Avg payload = 2 KB/request
+
+**Calculation:**
+
+1. **Convert KB to bytes:**
+
+   $$
+   2 \text{ KB} = 2 × 1024 = 2048 \text{ bytes}
+   $$
+
+2. **Convert to bits:**
+
+   $$
+   2048 × 8 = 16{,}384 \text{ bits/request}
+   $$
+
+3. **Calculate bits per second:**
+
+   $$
+   1080 × 16{,}384 = 17{,}694{,}720 \text{ bps} ≈ 17.7 \text{ Mbps}
+   $$
+
+---
+
+### Shortcut Version
+
+So the formula becomes:
+
+$$
+\text{Throughput (bps)} = \text{QPS} × \text{Payload Size (bytes)} × 8
+$$
+
+And then you just convert bps → Kbps/Mbps/Gbps.
+
+---

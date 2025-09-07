@@ -148,32 +148,47 @@ Here’s why:
 
 ---
 
-### Example (Step-by-Step)
+Yes — this screenshot is showing a **LaTeX-style step-by-step calculation** for bandwidth estimation, but the formatting is a bit verbose for most capacity docs.
+
+Here’s a **cleaner version** of the same example, which makes the `× 8` part very clear:
+
+---
+
+### **Example (Bandwidth Calculation)**
 
 **Given:**
 
-* QPS = 1,080
-* Avg payload = 2 KB/request
+* **QPS:** 1,080
+* **Average payload:** 2 KB/request
 
-**Calculation:**
+**Step 1 – Convert KB to bytes**
 
-1. **Convert KB to bytes:**
+$$
+2\ \text{KB} = 2 × 1024 = 2048\ \text{bytes}
+$$
 
-   $$
-   2 \text{ KB} = 2 × 1024 = 2048 \text{ bytes}
-   $$
+**Step 2 – Convert bytes to bits**
 
-2. **Convert to bits:**
+$$
+2048\ \text{bytes} × 8 = 16,384\ \text{bits/request}
+$$
 
-   $$
-   2048 × 8 = 16{,}384 \text{ bits/request}
-   $$
+**Step 3 – Calculate throughput (bits/sec)**
 
-3. **Calculate bits per second:**
+$$
+1080\ \text{QPS} × 16,384\ \text{bits} = 17,694,720\ \text{bps}
+$$
 
-   $$
-   1080 × 16{,}384 = 17{,}694{,}720 \text{ bps} ≈ 17.7 \text{ Mbps}
-   $$
+**Step 4 – Convert to Mbps**
+
+$$
+17,694,720 ÷ 1{,}000{,}000 ≈ 17.7\ \text{Mbps}
+$$
+
+---
+
+✅ This makes it very clear **why we multiply by 8** — simply to convert from bytes to bits.
+✅ Also explicitly shows the final conversion to Mbps (which is what network engineers typically care about).
 
 ---
 

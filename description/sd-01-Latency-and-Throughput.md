@@ -78,3 +78,49 @@ Here’s a **technical version with a real-world example** added — great for b
 > Consider an API with an SLO of **P99 < 500 ms**. This means 99% of requests must complete under 500 ms — even under peak load. If P50 is 120 ms but P99 spikes to 2 s during traffic bursts, users may experience timeouts and backpressure, even though the median latency seems healthy. Optimizing for **P95/P99** ensures consistent, predictable response times and a smoother end-user experience.
 
 
+**classic visualization** that shows the relationship between **latency** and **throughput** — often called the **"latency vs throughput curve"** or **"saturation curve."**
+
+Here’s how you can visualize it:
+
+---
+
+## 📊 Concept
+
+* As **throughput (requests/sec)** increases, **latency** stays low initially.
+* Once the system nears **capacity**, latency starts to rise sharply (queue buildup, contention).
+* P95/P99 grow much faster than P50 near saturation.
+
+---
+
+## 📈 Visualization Idea
+
+Here’s a **Mermaid plot-like conceptual diagram** (works in docs):
+
+```mermaid
+%%{init: {'theme': 'neutral'}}%%
+graph LR
+    A["Low Throughput<br>Low Latency"] --> B["Moderate Throughput<br>Stable Latency"]
+    B --> C["Near Capacity<br>Latency Starts Rising"]
+    C --> D["Saturation Point<br>Latency Spikes (P95/P99)"]
+```
+
+But since Mermaid can’t do real charts, a **proper chart** would look like this:
+
+```
+Latency (ms)
+│                   P99   ───────╮
+│                          ╭─────╯
+│                 P95  ────╯
+│        P50 ─────╯
+│
+└─────────────────────────────────────▶ Throughput (RPS)
+         Low         Moderate         High
+```
+
+**Key Takeaways from Chart:**
+
+* **P50 stays flat** until near saturation.
+* **P95/P99 shoot up** dramatically as throughput approaches max capacity.
+* This is why SLOs usually target P95/P99 — to avoid unacceptable tail latency under load.
+
+---

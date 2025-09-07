@@ -111,7 +111,7 @@ Example:
 Would you like me to create a **visual diagram (mermaid)** showing how QPS, storage, and bandwidth estimation connect (input → calculation → provisioning)? That would make it easier to explain to a team.
 
 <div align="center">
-  <img src="https://github.com/SomnathRangrej/security/blob/main/images/mermaid-diagram-Capacity-Estimation.png" />
+  <img src="https://github.com/SomnathRangrej/security/blob/main/images/mermaid-diagram-Capacity-Estimation.png" alt="Description of the image" width="600" />
 </div>
 
 Here’s a **clear tabular summary** of the same capacity estimation example — perfect for docs, wikis, or spreadsheets:

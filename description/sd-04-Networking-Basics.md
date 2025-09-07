@@ -96,26 +96,8 @@ Here’s a **concise and structured overview** of Networking Basics covering TCP
 **visual** (diagram showing how these protocols interact, e.g., from user → browser → server)? That could make it even easier to remember.
 
 ---
-flowchart TD
-    A[User / Browser or App] --> B{Type of Request}
 
-    B -->|Website HTTP or HTTPS| C[DNS Lookup - UDP 53]
-    C -->|Returns IP| D[TCP Connection - 3-Way Handshake]
-    D --> E[TLS Handshake - Key Exchange & Cert Validation]
-    E --> F[HTTP or HTTPS Request - GET / POST]
-    F --> G[Server Response - HTML, JSON, Images]
+<div align="center">
+  <img src="https://github.com/SomnathRangrej/security/blob/main/images/mermaid-diagram-Networking-Basics.png" alt="Description of the image" width="600" />
+</div>
 
-    B -->|VoIP / Streaming / Gaming| H[UDP Packet Sent - No Handshake, Low Latency]
-    H --> I[Server/Peer Receives Data - May Drop or Arrive Out-of-Order]
-
-    subgraph TCP Path
-        D
-        E
-        F
-        G
-    end
-
-    subgraph UDP Path
-        H
-        I
-    end

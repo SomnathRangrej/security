@@ -1,4 +1,4 @@
-Got it — you’re asking about **latency and throughput** and specifically the **percentiles (P50, P95, P99)** that are commonly reported in performance testing. Here’s a clear, structured explanation:
+**latency and throughput** and specifically the **percentiles (P50, P95, P99)** that are commonly reported in performance testing. Here’s a clear, structured explanation:
 
 ---
 
@@ -59,21 +59,10 @@ P50  P75      P90          P95                 P99
 * P50 = Median (center)
 * P95/P99 = Tail end (longer response times)
 
----
+<div align="center">
+  <img src="https://github.com/SomnathRangrej/security/blob/main/images/mermaid-diagram-latency-and-throuput.png" />
+</div>
 
-graph LR
-    A["Very Fast - below P50"]:::fast --> B["Typical Latency - P50"]:::p50
-    B --> C["Slower Requests - P75 to P95"]:::mid
-    C --> D["Rare Slow Requests - P95 to P99"]:::p95
-    D --> E["Very Slow Outliers - above P99"]:::p99
-
-    classDef fast fill:#D1FAE5,stroke:#065F46,stroke-width:2px,color:#065F46;
-    classDef p50 fill:#A7F3D0,stroke:#047857,stroke-width:2px,color:#064E3B;
-    classDef mid fill:#FEF3C7,stroke:#B45309,stroke-width:2px,color:#78350F;
-    classDef p95 fill:#FDE68A,stroke:#92400E,stroke-width:2px,color:#7C2D12;
-    classDef p99 fill:#FCA5A5,stroke:#B91C1C,stroke-width:2px,color:#7F1D1D;
-
----
 
 > **Explanation:**
 > This diagram illustrates how latency is distributed across requests. Most requests complete near the P50 (median), representing typical user experience. P95 and P99 capture the “tail latency,” where requests are significantly slower — often due to system contention, retries, or resource spikes. Monitoring these higher percentiles is critical for ensuring consistent performance and avoiding user-visible slowdowns.
@@ -87,7 +76,5 @@ Here’s a **technical version with a real-world example** added — great for b
 >
 > **Example:**
 > Consider an API with an SLO of **P99 < 500 ms**. This means 99% of requests must complete under 500 ms — even under peak load. If P50 is 120 ms but P99 spikes to 2 s during traffic bursts, users may experience timeouts and backpressure, even though the median latency seems healthy. Optimizing for **P95/P99** ensures consistent, predictable response times and a smoother end-user experience.
-
-Would you like me to also prepare a **mini table** comparing P50, P95, and P99 with their **meaning and typical use** (for a quick reference section)?
 
 

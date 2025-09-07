@@ -1,4 +1,4 @@
-Got it — you want an overview of **capacity estimation** covering **QPS (queries per second), storage, and bandwidth**. Here’s a structured breakdown:
+Overview of **capacity estimation** covering **QPS (queries per second), storage, and bandwidth**. Here’s a structured breakdown:
 
 ---
 

@@ -73,11 +73,43 @@ If you have 3 servers and 6 incoming requests → they are distributed as `S1, S
 
 ---
 
-<div align="center">
-  <img src="https://github.com/SomnathRangrej/security/blob/main/images/Mermaid-Chart-workflow.png" alt="Description of the image" width="800" />
-</div>
+```mermaid
+flowchart TD
+    A["🌐 Client Request"] --> B["⚖️ Load Balancer"]
 
----
+    %% L4 vs L7 Split
+    B -->|TCP/UDP Based| C["🔄 L4 Load Balancing"]
+    B -->|HTTP/HTTPS Based| D["🧠 L7 Load Balancing"]
+
+    %% L4 Decisions
+    C --> C1["🔁 Round Robin"]
+    C --> C2["📉 Least Connections"]
+    C --> C3["⚖️ Weighted RR / LC"]
+    C --> C4["🔑 Consistent Hashing"]
+
+    %% L7 Decisions
+    D --> D1["🌍 Route by Hostname"]
+    D --> D2["📂 Route by Path / Headers"]
+    D --> D3["🧲 Sticky Sessions"]
+    D --> D4["🧪 A/B Testing"]
+
+    %% Backend Servers
+    C1 --> E["🖥 Server Pool"]
+    C2 --> E
+    C3 --> E
+    C4 --> E
+    D1 --> E
+    D2 --> E
+    D3 --> E
+    D4 --> E
+
+    %% Styling Section
+    style A fill:#FEF3C7,stroke:#D97706,stroke-width:2px
+    style B fill:#E0E7FF,stroke:#4338CA,stroke-width:2px
+    style C fill:#DCFCE7,stroke:#16A34A,stroke-width:2px
+    style D fill:#DBEAFE,stroke:#2563EB,stroke-width:2px
+    style E fill:#F3F4F6,stroke:#374151,stroke-width:2px
+```
 
 Absolutely — a **real-life example** makes load balancing much easier to understand.
 
@@ -145,10 +177,41 @@ You have **millions of users**, and you can’t rely on a single server — it w
 4. That microservice queries the **database cluster**, where an **L4 load balancer** distributes read requests to replicas (Least Connections).
 5. The response is cached via **consistent hashing** so future users get faster results.
 
----
+```mermaid
+flowchart TD
+    %% Client
+    A["🌐 User Browser - Requests /products/shoes"] --> B["🌍 DNS - (Global Anycast)"]
+    B --> C["⚖️ L7 Load Balancer - (HTTP/HTTPS)"]
 
-<div align="center">
-  <img src="https://github.com/SomnathRangrej/security/blob/main/images/Mermaid-Chart-example.png" alt="Description of the image" width="800" />
-</div>
+    %% L7 Decisions
+    C -->|Path: /products| D1["🛍 Product Service - 🔁 Round Robin"]
+    C -->|Path: /cart| D2["🛒 Cart Service - 🧲 Sticky Sessions"]
+    C -->|Path: /checkout| D3["💳 Payment Service - 🧪 A/B Testing"]
 
----
+    %% Product Service calls DB
+    D1 --> E["🔄 L4 Load Balancer - (TCP/UDP)"]
+    E -->|Least Connections| F["🗄 DB Replica 1"]
+    E -->|Least Connections| G["🗄 DB Replica 2"]
+    E -->|Least Connections| H["🗄 DB Replica 3"]
+
+    %% Cache Layer
+    D1 --> I["🧠 Distributed Cache - 🔑 Consistent Hashing"]
+    I --> J["🗂 Cache Node A"]
+    I --> K["🗂 Cache Node B"]
+    I --> L["🗂 Cache Node C"]
+
+    %% Styling
+    style A fill:#FEF3C7,stroke:#D97706,stroke-width:2px
+    style C fill:#DBEAFE,stroke:#2563EB,stroke-width:2px
+    style D1 fill:#DCFCE7,stroke:#16A34A,stroke-width:2px
+    style D2 fill:#DCFCE7,stroke:#16A34A,stroke-width:2px
+    style D3 fill:#DCFCE7,stroke:#16A34A,stroke-width:2px
+    style E fill:#E0E7FF,stroke:#4338CA,stroke-width:2px
+    style F fill:#F3F4F6,stroke:#374151,stroke-width:2px
+    style G fill:#F3F4F6,stroke:#374151,stroke-width:2px
+    style H fill:#F3F4F6,stroke:#374151,stroke-width:2px
+    style I fill:#FAE8FF,stroke:#9333EA,stroke-width:2px
+    style J fill:#F3F4F6,stroke:#6B21A8,stroke-width:1px
+    style K fill:#F3F4F6,stroke:#6B21A8,stroke-width:1px
+
+```

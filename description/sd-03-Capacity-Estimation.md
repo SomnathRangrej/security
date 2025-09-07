@@ -188,6 +188,7 @@ $$
 ---
 
 ✅ This makes it very clear **why we multiply by 8** — simply to convert from bytes to bits.
+
 ✅ Also explicitly shows the final conversion to Mbps (which is what network engineers typically care about).
 
 ---

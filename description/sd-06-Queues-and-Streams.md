@@ -67,6 +67,7 @@ while **different groups** can read the same data independently (fan-out).
 ## 4. Quick Rule of Thumb
 
 Use a Queue when:
+
 ✅ Each message should be handled by exactly one worker
 
 ✅ You want to balance work between workers
@@ -74,6 +75,7 @@ Use a Queue when:
 ✅ You don’t care about re-reading old data
 
 Use a Stream when:
+
 ✅ You want multiple systems to consume the same event
 
 ✅ You may need to replay events later

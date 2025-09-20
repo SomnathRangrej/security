@@ -128,3 +128,106 @@ ON CONFLICT (id) DO NOTHING;
 
 ---
 
+
+Nice 👍 running against **localhost** is the fastest way to test an Ansible playbook.
+
+---
+
+## 1. Create the Playbook (example: `apache.yml`)
+
+```yaml
+- name: Ensure Apache is installed and running on localhost (RHEL 8)
+  hosts: localhost
+  become: yes
+  tasks:
+    - name: Install Apache (httpd)
+      dnf:
+        name: httpd
+        state: present
+
+    - name: Ensure Apache service is running
+      service:
+        name: httpd
+        state: started
+        enabled: yes
+```
+
+---
+
+## 2. Run Without Inventory
+
+Since you’re targeting `localhost`, no need for a separate `hosts.ini`. Just run:
+
+```bash
+ansible-playbook apache.yml -K
+```
+
+* `-K` → prompts for your sudo password (because of `become: yes`).
+* Ansible automatically knows `localhost` means your own machine.
+
+---
+
+## 3. Alternative: Explicit Inventory
+
+If you want to keep an inventory file, create `hosts.ini`:
+
+```ini
+[local]
+localhost ansible_connection=local
+```
+
+Then run:
+
+```bash
+ansible-playbook -i hosts.ini apache.yml -K
+```
+
+---
+
+✅ Either way, Ansible will:
+
+* Install `httpd` if missing.
+* Start it and enable on boot.
+* Do nothing on subsequent runs (idempotent behavior).
+
+---
+
+```bash
+[root@naylorvm002 ~]# ansible-playbook  /root/srj1-scripts/Idempotency-httpd.yaml 
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that the implicit localhost does not match 'all'
+
+PLAY [Ensure Apache is installed and running on localhost (RHEL 8)] ****************************************************************************************************************************
+
+TASK [Gathering Facts] *************************************************************************************************************************************************************************
+ok: [localhost]
+
+TASK [Install Apache (httpd)] ******************************************************************************************************************************************************************
+ok: [localhost]
+
+TASK [Ensure Apache service is running] ********************************************************************************************************************************************************
+ok: [localhost]
+
+PLAY RECAP *************************************************************************************************************************************************************************************
+localhost                  : ok=3    changed=0    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+
+[root@naylorvm002 ~]# systemctl status httpd
+● httpd.service - The Apache HTTP Server
+   Loaded: loaded (/usr/lib/systemd/system/httpd.service; enabled; vendor preset: disabled)
+   Active: active (running) since Wed 2025-09-17 19:50:55 CDT; 2 days ago
+     Docs: man:httpd.service(8)
+ Main PID: 1192 (httpd)
+   Status: "Total requests: 40; Idle/Busy workers 100/0;Requests/sec: 0.000205; Bytes served/sec:  76 B/sec"
+    Tasks: 278 (limit: 49461)
+   Memory: 47.4M
+   CGroup: /system.slice/httpd.service
+           ├─1192 /usr/sbin/httpd -DFOREGROUND
+           ├─1533 /usr/sbin/httpd -DFOREGROUND
+           ├─1534 /usr/sbin/httpd -DFOREGROUND
+           ├─1535 /usr/sbin/httpd -DFOREGROUND
+           ├─1536 /usr/sbin/httpd -DFOREGROUND
+           └─2385 /usr/sbin/httpd -DFOREGROUND
+
+Warning: Journal has been rotated since unit was started. Log output is incomplete or unavailable.
+[root@naylorvm002 ~]# 
+```

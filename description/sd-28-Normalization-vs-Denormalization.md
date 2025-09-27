@@ -1,5 +1,3 @@
-Great question 👍 Let’s break it down clearly:
-
 ---
 
 ## **Normalization**

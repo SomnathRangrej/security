@@ -143,3 +143,5 @@ security content &amp; knowledge base
 - [Python MCP: Connect Your LLM With the World](https://realpython.com/python-mcp/)
 
 - [Docker vs Podman: A Subjective Comparison](https://dev.to/mcheremnov/docker-vs-podman-a-subjective-comparison-5fnd)
+
+- [Deep Dive into Docker Architecture](https://dev.to/raj_singhal/deep-dive-into-docker-architecture-14b9)

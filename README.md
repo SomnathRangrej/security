@@ -137,3 +137,9 @@ security content &amp; knowledge base
 - [Building Event-Driven Architectures: FastAPI + Message Queues (RabbitMQ, Kafka, Redis Streams)](https://medium.com/python-in-plain-english/building-event-driven-architectures-fastapi-message-queues-rabbitmq-kafka-redis-streams-2ba82926a120)
 
 - [PubSub](https://www.youtube.com/watch?v=IX0aq9jBmH0)
+
+- [Why Anthropic’s MCP is a Big Deal](https://blog.bytebytego.com/p/why-anthropics-mcp-is-a-big-deal)
+
+- [Python MCP: Connect Your LLM With the World](https://realpython.com/python-mcp/)
+
+- [Docker vs Podman: A Subjective Comparison](https://dev.to/mcheremnov/docker-vs-podman-a-subjective-comparison-5fnd)

@@ -145,3 +145,5 @@ security content &amp; knowledge base
 - [Docker vs Podman: A Subjective Comparison](https://dev.to/mcheremnov/docker-vs-podman-a-subjective-comparison-5fnd)
 
 - [Deep Dive into Docker Architecture](https://dev.to/raj_singhal/deep-dive-into-docker-architecture-14b9)
+
+- [Building Agents with Model Context Protocol - Full Workshop with Mahesh Murag of Anthropic](https://youtu.be/kQmXtrmQ5Zg)

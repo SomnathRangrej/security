@@ -147,3 +147,5 @@ security content &amp; knowledge base
 - [Deep Dive into Docker Architecture](https://dev.to/raj_singhal/deep-dive-into-docker-architecture-14b9)
 
 - [Building Agents with Model Context Protocol - Full Workshop with Mahesh Murag of Anthropic](https://youtu.be/kQmXtrmQ5Zg)
+
+- [🤖 How to Use AI to Learn Bug Hunting & Cybersecurity Like a Pro (in 2025)](https://thehackerslog.substack.com/p/how-to-use-ai-to-learn-bug-hunting)

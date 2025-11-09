@@ -149,3 +149,6 @@ security content &amp; knowledge base
 - [Building Agents with Model Context Protocol - Full Workshop with Mahesh Murag of Anthropic](https://youtu.be/kQmXtrmQ5Zg)
 
 - [🤖 How to Use AI to Learn Bug Hunting & Cybersecurity Like a Pro (in 2025)](https://thehackerslog.substack.com/p/how-to-use-ai-to-learn-bug-hunting)
+
+- [The Ultimate Hacker’s Bash Cheat Sheet (20+ Advanced One-Liners Inside](https://medium.verylazytech.com/the-ultimate-hackers-bash-cheat-sheet-20-advanced-one-liners-inside-418385ed1e35)
+

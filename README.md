@@ -152,3 +152,5 @@ security content &amp; knowledge base
 
 - [The Ultimate Hacker’s Bash Cheat Sheet (20+ Advanced One-Liners Inside](https://medium.verylazytech.com/the-ultimate-hackers-bash-cheat-sheet-20-advanced-one-liners-inside-418385ed1e35)
 
+- [10 n8n Workflows Every Business Should Steal](https://medium.com/write-a-catalyst/10-n8n-workflows-every-business-should-steal-99035482b283)
+

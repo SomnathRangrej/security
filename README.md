@@ -155,3 +155,7 @@ security content &amp; knowledge base
 - [10 n8n Workflows Every Business Should Steal](https://medium.com/write-a-catalyst/10-n8n-workflows-every-business-should-steal-99035482b283)
 
 - [Every Bug I Ever Fixed Made Sense Only After I Understood These 7 Layers](https://medium.com/@kanishks772/every-bug-i-ever-fixed-made-sense-only-after-i-understood-these-7-layers-ebcae423399b#bypass)
+
+- [11 Python Scripts to Automate Your Daily Tasks](https://blog.stackademic.com/11-python-scripts-to-automate-your-daily-tasks-4a48fc34ac8e)
+
+- [BurpSuite + Ffuf | Make Your Life Easier](https://systemweakness.com/burpsuite-ffuf-make-your-life-easier-b6ffc290ba68)

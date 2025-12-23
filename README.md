@@ -159,3 +159,5 @@ security content &amp; knowledge base
 - [11 Python Scripts to Automate Your Daily Tasks](https://blog.stackademic.com/11-python-scripts-to-automate-your-daily-tasks-4a48fc34ac8e)
 
 - [BurpSuite + Ffuf | Make Your Life Easier](https://systemweakness.com/burpsuite-ffuf-make-your-life-easier-b6ffc290ba68)
+
+- [How to Read One Book Per Week (Even if You Read Slowly)](https://scotthyoung.medium.com/how-to-read-one-book-per-week-even-if-you-read-slowly-d0fbf012bc43)

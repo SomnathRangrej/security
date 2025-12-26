@@ -163,3 +163,9 @@ security content &amp; knowledge base
 - [How to Read One Book Per Week (Even if You Read Slowly)](https://scotthyoung.medium.com/how-to-read-one-book-per-week-even-if-you-read-slowly-d0fbf012bc43)
 
 - [How I Learned System Design](https://medium.com/@himanshusingour7/how-i-learned-system-design-d7444d454367)
+
+- [Looking Beyond Bugs: Finding Design Flaws in Modern Applications](https://medium.com/@afi0pchik/looking-beyond-bugs-finding-design-flaws-in-modern-applications-d42dae47775f)
+
+- [Horizontal Privilege Escalation via IDOR: Viewing, Editing and Deleting](https://scriptjacker.medium.com/horizontal-privilege-escalation-via-idor-viewing-editing-and-deleting-b10936ad4eb1)
+
+- [One Request, Ten Times: How I Broke Admin Access with a Race Condition](https://medium.com/@solutionexit5/one-request-ten-times-how-i-broke-admin-access-with-a-race-condition-05c56b072118)

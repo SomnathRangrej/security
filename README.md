@@ -161,3 +161,5 @@ security content &amp; knowledge base
 - [BurpSuite + Ffuf | Make Your Life Easier](https://systemweakness.com/burpsuite-ffuf-make-your-life-easier-b6ffc290ba68)
 
 - [How to Read One Book Per Week (Even if You Read Slowly)](https://scotthyoung.medium.com/how-to-read-one-book-per-week-even-if-you-read-slowly-d0fbf012bc43)
+
+- [How I Learned System Design](https://medium.com/@himanshusingour7/how-i-learned-system-design-d7444d454367)

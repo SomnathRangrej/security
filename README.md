@@ -169,3 +169,5 @@ security content &amp; knowledge base
 - [Horizontal Privilege Escalation via IDOR: Viewing, Editing and Deleting](https://scriptjacker.medium.com/horizontal-privilege-escalation-via-idor-viewing-editing-and-deleting-b10936ad4eb1)
 
 - [One Request, Ten Times: How I Broke Admin Access with a Race Condition](https://medium.com/@solutionexit5/one-request-ten-times-how-i-broke-admin-access-with-a-race-condition-05c56b072118)
+
+- [3 ways to monitor your home network that don't require expensive software](https://www.xda-developers.com/ways-to-monitor-home-network-that-dont-require-expensive-software/)

@@ -171,3 +171,5 @@ security content &amp; knowledge base
 - [One Request, Ten Times: How I Broke Admin Access with a Race Condition](https://medium.com/@solutionexit5/one-request-ten-times-how-i-broke-admin-access-with-a-race-condition-05c56b072118)
 
 - [3 ways to monitor your home network that don't require expensive software](https://www.xda-developers.com/ways-to-monitor-home-network-that-dont-require-expensive-software/)
+
+- [Linux Tools You Rarely Hear About — But Every DevOps Engineer Will Need in 2026](https://medium.com/devops-for-noobs/linux-tools-you-rarely-hear-about-but-every-devops-engineer-will-need-in-2026-5f52aa9bfe56)

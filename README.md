@@ -173,3 +173,5 @@ security content &amp; knowledge base
 - [3 ways to monitor your home network that don't require expensive software](https://www.xda-developers.com/ways-to-monitor-home-network-that-dont-require-expensive-software/)
 
 - [Linux Tools You Rarely Hear About — But Every DevOps Engineer Will Need in 2026](https://medium.com/devops-for-noobs/linux-tools-you-rarely-hear-about-but-every-devops-engineer-will-need-in-2026-5f52aa9bfe56)
+
+- [Machine Learning vs. Cyber Threats: A Smarter Defense](https://dev.to/abuhorairatarif/machine-learning-vs-cyber-threats-a-smarter-defense-2g0g?context=digest)

@@ -175,3 +175,5 @@ security content &amp; knowledge base
 - [Linux Tools You Rarely Hear About — But Every DevOps Engineer Will Need in 2026](https://medium.com/devops-for-noobs/linux-tools-you-rarely-hear-about-but-every-devops-engineer-will-need-in-2026-5f52aa9bfe56)
 
 - [Machine Learning vs. Cyber Threats: A Smarter Defense](https://dev.to/abuhorairatarif/machine-learning-vs-cyber-threats-a-smarter-defense-2g0g?context=digest)
+
+- [LockBit Ransomware](https://www.akamai.com/glossary/what-is-lockbit-ransomware#accordion-87887b0b22-item-fa73e7be20)

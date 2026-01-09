@@ -177,3 +177,5 @@ security content &amp; knowledge base
 - [Machine Learning vs. Cyber Threats: A Smarter Defense](https://dev.to/abuhorairatarif/machine-learning-vs-cyber-threats-a-smarter-defense-2g0g?context=digest)
 
 - [LockBit Ransomware](https://www.akamai.com/glossary/what-is-lockbit-ransomware#accordion-87887b0b22-item-fa73e7be20)
+
+- [Burp Suite MCP + Gemini CLI](https://medium.com/ai-security-hub/burp-suite-mcp-gemini-cli-c1229edfe092)

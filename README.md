@@ -179,3 +179,5 @@ security content &amp; knowledge base
 - [LockBit Ransomware](https://www.akamai.com/glossary/what-is-lockbit-ransomware#accordion-87887b0b22-item-fa73e7be20)
 
 - [Burp Suite MCP + Gemini CLI](https://medium.com/ai-security-hub/burp-suite-mcp-gemini-cli-c1229edfe092)
+
+- [DAST Automation Using BurpSuite MCP](https://medium.com/bugbountywriteup/dast-automation-using-burpsuite-mcp-923b6c0101e1)

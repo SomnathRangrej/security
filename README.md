@@ -183,3 +183,5 @@ security content &amp; knowledge base
 - [DAST Automation Using BurpSuite MCP](https://medium.com/bugbountywriteup/dast-automation-using-burpsuite-mcp-923b6c0101e1)
 
 - [17 Rules to Mentally Survive Any Corporate Job](https://medium.com/write-a-catalyst/17-rules-to-mentally-survive-any-corporate-job-0219ac28beac)
+
+- [Anthropic Launches Claude Code Security to Scan Codebases for Security Vulnerabilities](https://cybersecuritynews.com/claude-code-security/)

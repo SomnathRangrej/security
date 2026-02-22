@@ -185,3 +185,5 @@ security content &amp; knowledge base
 - [17 Rules to Mentally Survive Any Corporate Job](https://medium.com/write-a-catalyst/17-rules-to-mentally-survive-any-corporate-job-0219ac28beac)
 
 - [Anthropic Launches Claude Code Security to Scan Codebases for Security Vulnerabilities](https://cybersecuritynews.com/claude-code-security/)
+
+- [The Python Skills That Actually Get You Hired in 2026 (And How to Learn Them)](https://python.plainenglish.io/the-python-skills-that-actually-get-you-hired-in-2026-and-how-to-learn-them-0f0fc4eaf5e0)

@@ -189,3 +189,5 @@ security content &amp; knowledge base
 - [The Python Skills That Actually Get You Hired in 2026 (And How to Learn Them)](https://python.plainenglish.io/the-python-skills-that-actually-get-you-hired-in-2026-and-how-to-learn-them-0f0fc4eaf5e0)
 
 - [DAST Automation Using BurpSuite MCP](https://infosecwriteups.com/dast-automation-using-burpsuite-mcp-923b6c0101e1)
+
+- [Essential AI Skills for EVERYONE in 2026](https://medium.com/@gratitudedriven/essential-ai-skills-for-everyone-in-2026-eb712d59af43)

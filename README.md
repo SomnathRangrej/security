@@ -191,3 +191,5 @@ security content &amp; knowledge base
 - [DAST Automation Using BurpSuite MCP](https://infosecwriteups.com/dast-automation-using-burpsuite-mcp-923b6c0101e1)
 
 - [Essential AI Skills for EVERYONE in 2026](https://medium.com/@gratitudedriven/essential-ai-skills-for-everyone-in-2026-eb712d59af43)
+
+- [AI-assisted Web Pentesting Using Claude Code + Burp MCP](https://labs.secengai.com/p/ai-assisted-web-pentesting-using-claude-code-burp-mcp)

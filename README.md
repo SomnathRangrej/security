@@ -193,3 +193,5 @@ security content &amp; knowledge base
 - [Essential AI Skills for EVERYONE in 2026](https://medium.com/@gratitudedriven/essential-ai-skills-for-everyone-in-2026-eb712d59af43)
 
 - [AI-assisted Web Pentesting Using Claude Code + Burp MCP](https://labs.secengai.com/p/ai-assisted-web-pentesting-using-claude-code-burp-mcp)
+
+- [FIPS & STIG](https://github.com/SomnathRangrej/security/blob/main/description/fips-stig-details.md)

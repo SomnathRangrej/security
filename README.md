@@ -195,3 +195,5 @@ security content &amp; knowledge base
 - [AI-assisted Web Pentesting Using Claude Code + Burp MCP](https://labs.secengai.com/p/ai-assisted-web-pentesting-using-claude-code-burp-mcp)
 
 - [FIPS & STIG](https://github.com/SomnathRangrej/security/blob/main/description/fips-stig-details.md)
+
+- [A Crash Course on High Availability](https://newsletter.systemdesign.one/p/what-is-high-availability)

@@ -197,3 +197,5 @@ security content &amp; knowledge base
 - [FIPS & STIG](https://github.com/SomnathRangrej/security/blob/main/description/fips-stig-details.md)
 
 - [A Crash Course on High Availability](https://newsletter.systemdesign.one/p/what-is-high-availability)
+
+- [Reliability & Observability](https://layrs.me/learn/system-design/module-4)

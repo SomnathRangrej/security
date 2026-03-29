@@ -199,3 +199,5 @@ security content &amp; knowledge base
 - [A Crash Course on High Availability](https://newsletter.systemdesign.one/p/what-is-high-availability)
 
 - [Reliability & Observability](https://layrs.me/learn/system-design/module-4)
+
+- [Erasure Coding](https://github.com/SomnathRangrej/security/blob/main/description/Erasure_Coding.md)

@@ -207,3 +207,5 @@ security content &amp; knowledge base
 - [Why You’re Still Not Ready for AI Engineering](https://medium.com/@gratitudedriven/why-youre-still-not-ready-for-ai-engineering-0dd7e8b103dd)
 
 - [Difference between RAM & swap](https://github.com/SomnathRangrej/security/blob/main/description/RAM-swap.md)
+
+- [sticky bit](https://github.com/SomnathRangrej/security/blob/main/description/sticky-bit.md)

@@ -209,3 +209,5 @@ security content &amp; knowledge base
 - [Difference between RAM & swap](https://github.com/SomnathRangrej/security/blob/main/description/RAM-swap.md)
 
 - [sticky bit](https://github.com/SomnathRangrej/security/blob/main/description/sticky-bit.md)
+
+- [What is fsck](https://github.com/SomnathRangrej/security/blob/main/description/fsck.md)

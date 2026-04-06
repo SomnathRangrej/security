@@ -213,3 +213,5 @@ security content &amp; knowledge base
 - [What is fsck](https://github.com/SomnathRangrej/security/blob/main/description/fsck.md)
 
 - [ext4-and-xfs](https://github.com/SomnathRangrej/security/blob/main/description/ext4-and-xfs.md)
+
+- [nice & renice](https://github.com/SomnathRangrej/security/blob/main/description/nice-renice.md)

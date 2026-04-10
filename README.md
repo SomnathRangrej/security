@@ -217,3 +217,7 @@ security content &amp; knowledge base
 - [nice & renice](https://github.com/SomnathRangrej/security/blob/main/description/nice-renice.md)
 
 - [Process Vs Thread](https://github.com/SomnathRangrej/security/blob/main/description/process-vs-thread.md)
+
+- [If You Understand These 5 AI Terms, You're Ahead of 90% of People](https://medium.com/towards-artificial-intelligence/if-you-understand-these-5-ai-terms-youre-ahead-of-90-of-people-c7622d353319)
+  
+- [20 Most Important AI Concepts Explained in Just 20 Minute](https://medium.com/lets-code-future/20-most-important-ai-concepts-explained-in-just-20-minute-b7dd3ad2b506)

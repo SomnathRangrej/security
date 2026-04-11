@@ -223,3 +223,5 @@ security content &amp; knowledge base
 - [20 Most Important AI Concepts Explained in Just 20 Minute](https://medium.com/lets-code-future/20-most-important-ai-concepts-explained-in-just-20-minute-b7dd3ad2b506)
 
 - [SBOM](https://github.com/SomnathRangrej/security/blob/main/description/SBOM.md)
+
+- [The 5-Step Method That Changed How I Learn Technical Skills:](https://medium.com/data-science-collective/the-5-step-method-that-changed-how-i-learn-technical-skills-59fcbbdabd62)

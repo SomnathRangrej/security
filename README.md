@@ -225,3 +225,5 @@ security content &amp; knowledge base
 - [SBOM](https://github.com/SomnathRangrej/security/blob/main/description/SBOM.md)
 
 - [The 5-Step Method That Changed How I Learn Technical Skills:](https://medium.com/data-science-collective/the-5-step-method-that-changed-how-i-learn-technical-skills-59fcbbdabd62)
+
+- [Speed of Trust](https://github.com/SomnathRangrej/security/blob/main/description/speed-of-trust.md)

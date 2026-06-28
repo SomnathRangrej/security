@@ -229,3 +229,5 @@ security content &amp; knowledge base
 - [Speed of Trust](https://github.com/SomnathRangrej/security/blob/main/description/speed-of-trust.md)
 
 - [CLAUDE.md](https://www.linkedin.com/posts/jeanmalaquias_a-single-claudemd-is-not-a-claude-code-project-share-7466969026456428544-BoAo/)
+
+- [20 Networking Concepts Explained in 15 Minutes](https://blog.algomaster.io/p/20-networking-concepts-explained)

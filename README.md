@@ -233,3 +233,7 @@ security content &amp; knowledge base
 - [20 Networking Concepts Explained in 15 Minutes](https://blog.algomaster.io/p/20-networking-concepts-explained)
 
 - [100 Claude Prompts That Replace Hours of Work](https://growtechie.substack.com/p/100-claude-prompts-that-replace-hours)
+
+- [Do LLMs Have the Memory of a Goldfish?](https://blog.bytebytego.com/p/do-llms-have-the-memory-of-a-goldfish)
+
+- [LLMs as a Judge: How to Know if Your LLM is Healthy](https://blog.bytebytego.com/p/llms-as-a-judge-how-to-know-if-your)

@@ -237,3 +237,6 @@ security content &amp; knowledge base
 - [Do LLMs Have the Memory of a Goldfish?](https://blog.bytebytego.com/p/do-llms-have-the-memory-of-a-goldfish)
 
 - [LLMs as a Judge: How to Know if Your LLM is Healthy](https://blog.bytebytego.com/p/llms-as-a-judge-how-to-know-if-your)
+
+- [This is Feynman’s Thinking Habit. It Made Him a Genius](https://thomas-oppong.medium.com/this-is-feynmans-thinking-habit-it-made-him-a-genius-c79cfabaee7c)
+

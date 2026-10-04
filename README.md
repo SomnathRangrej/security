@@ -240,3 +240,4 @@ security content &amp; knowledge base
 
 - [This is Feynman’s Thinking Habit. It Made Him a Genius](https://thomas-oppong.medium.com/this-is-feynmans-thinking-habit-it-made-him-a-genius-c79cfabaee7c)
 
+- [What Has Always Been the Moat in Pentesting?](https://pentesterlab.com/blog/what-has-always-been-the-moat-in-pentesting)

@@ -241,3 +241,7 @@ security content &amp; knowledge base
 - [This is Feynman’s Thinking Habit. It Made Him a Genius](https://thomas-oppong.medium.com/this-is-feynmans-thinking-habit-it-made-him-a-genius-c79cfabaee7c)
 
 - [What Has Always Been the Moat in Pentesting?](https://pentesterlab.com/blog/what-has-always-been-the-moat-in-pentesting)
+
+- [9 Laws Every Manager Should Know (And Most Break Daily)](https://read.thegoodboss.com/p/9-laws-every-manager-should-know)
+
+- [Second-Order Thinking: How to See the Consequences Before You Create Them](https://read.thegoodboss.com/p/second-order-thinking-how-to-see)

@@ -245,3 +245,7 @@ security content &amp; knowledge base
 - [9 Laws Every Manager Should Know (And Most Break Daily)](https://read.thegoodboss.com/p/9-laws-every-manager-should-know)
 
 - [Second-Order Thinking: How to See the Consequences Before You Create Them](https://read.thegoodboss.com/p/second-order-thinking-how-to-see)
+
+- [6 Things Good Managers Do That Look Like Doing Nothing](https://read.thegoodboss.com/p/6-things-good-managers-do-that-look)
+
+- [Your Entire Life Changes When You Realize Getting Rich Is A Skill Issue](https://letters.devoncanup.com/p/you-need-to-be-delusional-if-you)

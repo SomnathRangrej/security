@@ -249,3 +249,5 @@ security content &amp; knowledge base
 - [6 Things Good Managers Do That Look Like Doing Nothing](https://read.thegoodboss.com/p/6-things-good-managers-do-that-look)
 
 - [Your Entire Life Changes When You Realize Getting Rich Is A Skill Issue](https://letters.devoncanup.com/p/you-need-to-be-delusional-if-you)
+
+- [The Disease of Optionality: Why Smart People Stay Poor](https://medium.com/john-a/the-disease-of-optionality-why-smart-people-stay-poor-d403850a4a1e)

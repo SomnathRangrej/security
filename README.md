@@ -251,3 +251,5 @@ security content &amp; knowledge base
 - [Your Entire Life Changes When You Realize Getting Rich Is A Skill Issue](https://letters.devoncanup.com/p/you-need-to-be-delusional-if-you)
 
 - [The Disease of Optionality: Why Smart People Stay Poor](https://medium.com/john-a/the-disease-of-optionality-why-smart-people-stay-poor-d403850a4a1e)
+
+- [top1-year-roadmap](https://github.com/SomnathRangrej/security/blob/main/description/top1-year-roadmap.html])

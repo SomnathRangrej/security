@@ -252,4 +252,4 @@ security content &amp; knowledge base
 
 - [The Disease of Optionality: Why Smart People Stay Poor](https://medium.com/john-a/the-disease-of-optionality-why-smart-people-stay-poor-d403850a4a1e)
 
-- [top1-year-roadmap](https://github.com/SomnathRangrej/security/blob/main/description/top1-year-roadmap.html])
+- [top1-year-roadmap](https://github.com/SomnathRangrej/security/blob/main/description/top1-year-roadmap.html)

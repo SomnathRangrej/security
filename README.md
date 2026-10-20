@@ -253,3 +253,5 @@ security content &amp; knowledge base
 - [The Disease of Optionality: Why Smart People Stay Poor](https://medium.com/john-a/the-disease-of-optionality-why-smart-people-stay-poor-d403850a4a1e)
 
 - [top1-year-roadmap](https://htmlpreview.github.io/?https://github.com/SomnathRangrej/security/blob/main/description/top1-year-roadmap.html)
+
+- [8 New AI Terms You Should Know to Be Ahead of 90% of People](https://generativeai.pub/8-new-ai-terms-you-should-know-to-be-ahead-of-90-of-people-b898cc0ebd1a)

@@ -255,3 +255,5 @@ security content &amp; knowledge base
 - [top1-year-roadmap](https://htmlpreview.github.io/?https://github.com/SomnathRangrej/security/blob/main/description/top1-year-roadmap.html)
 
 - [8 New AI Terms You Should Know to Be Ahead of 90% of People](https://generativeai.pub/8-new-ai-terms-you-should-know-to-be-ahead-of-90-of-people-b898cc0ebd1a)
+
+- [PHP2Shell](https://www.linkedin.com/pulse/php2shell-vulnerability-sent-governments-security-teams-jayant-dusane-xp4rf/)

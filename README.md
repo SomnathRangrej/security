@@ -259,3 +259,7 @@ security content &amp; knowledge base
 - [PHP2Shell](https://www.linkedin.com/pulse/php2shell-vulnerability-sent-governments-security-teams-jayant-dusane-xp4rf/)
 
 - [It's How You Tell the Story!](https://www.linkedin.com/pulse/its-how-you-tell-story-prachi-mishra-o9pae/)
+
+- [The perils of creating a world more complex than we need](https://www.linkedin.com/posts/ravi-venkatesan_linkincomments-share-7529471264097292288-tD8B/)
+
+- [What We Lose When AI Makes Everything Easier](https://www.linkedin.com/pulse/what-we-lose-when-ai-makes-everything-easier-ravi-venkatesan-kvvzf/)

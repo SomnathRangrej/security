@@ -263,3 +263,5 @@ security content &amp; knowledge base
 - [The perils of creating a world more complex than we need](https://www.linkedin.com/posts/ravi-venkatesan_linkincomments-share-7529471264097292288-tD8B/)
 
 - [What We Lose When AI Makes Everything Easier](https://www.linkedin.com/pulse/what-we-lose-when-ai-makes-everything-easier-ravi-venkatesan-kvvzf/)
+
+- [What Wealthy People Do Before 9 AM That Broke People Do Never](https://medium.com/@soloblood77/what-wealthy-people-do-before-9-am-that-broke-people-do-never-a183febebd1c)
